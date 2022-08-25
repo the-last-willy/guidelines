@@ -1,5 +1,7 @@
 # Debuggability
 
+The purpose of this document is to present a coding style that makes debugging easier.
+
 ## Function calls
 
 No non-trivial expression for function parameters.
